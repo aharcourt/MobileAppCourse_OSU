@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite and Location App</string>
+    <string name="main_text_input_prompt1">Enter Some Text</string>
+    <string name="main_input_button1">Submit Text</string>
+    <string name="main_listview_label1">Text</string>
+    <string name="main_listview_label2">Latitude</string>
+    <string name="main_listview_label3">Longitude</string>
+</resources>

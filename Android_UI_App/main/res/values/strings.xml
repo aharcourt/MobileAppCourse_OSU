@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android UI</string>
+    <string name="main_button_1">Linear Layout Horizontal</string>
+    <string name="main_button_2">Linear Layout Vertical</string>
+    <string name="main_button_3">Grid Layout</string>
+    <string name="main_button_4">Relative Layout</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+</resources>
